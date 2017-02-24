@@ -1,33 +1,22 @@
 {
-<<<<<<< .mine
     "name": "dev_laravel_v53/sample",
-||||||| .r25
     "name": "foostart/sample",
-=======
-    "name": "foostartnd/sample",
-    "type": "library",
->>>>>>> .r30
+
+
+
     "description": "Create overview sample can intergrate other project",
-<<<<<<< .mine
     "license": "MIT",
-||||||| .r25
-    "license": "INFINITY_M",
-=======
+
+
     "keywords": ["foostartnd","sample"],
     "homepage": "https://github.com/tannhan113/Foostart",
     "license": "MIT",
->>>>>>> .r30
+
     "authors": [
         {
             "name": "Foostart",
-<<<<<<< .mine
             "email": "tranvannhu96@gmail.com"
-||||||| .r25
-            "email": "nguyenanhhoanld@gmail.com"
-=======
-            "email": "tannhan113@gmail.com",
             "role": "Developer"
->>>>>>> .r30
         }
     ],
 
