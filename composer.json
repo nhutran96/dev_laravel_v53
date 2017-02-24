@@ -1,27 +1,20 @@
 {
     "name": "dev_laravel_v53/sample",
     "name": "foostart/sample",
-
-
-
     "description": "Create overview sample can intergrate other project",
     "license": "MIT",
-
-
     "keywords": ["foostartnd","sample"],
     "homepage": "https://github.com/tannhan113/Foostart",
     "license": "MIT",
-
     "authors": [
         {
             "name": "Foostart",
-            "email": "tranvannhu96@gmail.com"
+            "email": "tranvannhu96@gmail.com",
             "role": "Developer"
         }
     ],
-
     "minimum-stability": "stable",
-     "require": {
+    "require": {
         "php": ">=5.3.0"
     },
     "autoload": {
